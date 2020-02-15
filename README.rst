@@ -10,9 +10,9 @@ jsonfield2
 .. image:: https://img.shields.io/pypi/l/jsonfield2.svg
   :target: https://pypi.org/project/jsonfield2
 
-A modern fork of `django-jsonfield`_, compatible with the latest versions of Django.
+-----
 
-.. _django-jsonfield: https://github.com/dmkoch/django-jsonfield
+**ARCHIVE NOTICE:** This package has been deprecated and merged back into **jsonfield**.
 
 -----
 
